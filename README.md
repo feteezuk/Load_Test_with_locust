@@ -1,11 +1,7 @@
-[![Flask Change Microservice Test](https://github.com/noahgift/flask-change-microservice/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/flask-change-microservice/actions/workflows/main.yml)
+[![Flask Change Microservice Test](https://github.com/feteezuk/Load_Test_with_locust/actions/workflows/main.yml/badge.svg)](https://github.com/feteezuk/Load_Test_with_locust/actions/workflows/main.yml)
 
-# flask-change-microservice
+# flask-change-microservice and LOAD TEST WITH LOCUST
 Small Flask Microservice that makes change
-
-*Coursera Lab:  duke-coursera-ccb-lab2*
-
-![coursera-lab](https://user-images.githubusercontent.com/58792/108137449-df0e0300-7089-11eb-8b11-74f478b71d11.png)
 
 
 ## Invoke Endpoint
